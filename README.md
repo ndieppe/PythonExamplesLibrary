@@ -1,3 +1,7 @@
+# 🚧 This project is Under Construction🚧
+Currently working on making the easy level lessons
+
+
 # PythonExamplesLibrary
 [![GitHub last commit](https://img.shields.io/github/last-commit/ndieppe/PythonExamplesLibrary)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ndieppe/PythonExamplesLibrary)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
@@ -13,8 +17,7 @@ This repository is divided into three levels:
 - **Hard** 🔴 - Complex challenges to test your skills.
 
 ---
-# 🚧 This project is NOT finnished🚧
-Currently working on making the easy level lessons
+
 
 ## 🟢 Easy Level
 ### 🔹 Concepts Covered:
