@@ -1,0 +1,18 @@
+In this file you will see instructions on what to make in your project
+
+Using both the time and datetime module make a program where someone can enter a desired alarm time in HH:MM:SS format and have an alarm go off at the end with the message "Wake Up!"
+
+For extra points make it output a sound too:
+the easiest way to make it output a sound is using Pygame
+to install pygame enter command line ("Search cmd") and type: pip install pygame
+
+then use these lines of code:
+
+pygame.mixer.init()
+            pygame.mixer.music.load(os.path.join(os.path.dirname(__file__), "alarm_sound.mp3"))
+            pygame.mixer.music.play()
+            while pygame.mixer.music.get_busy() == True:
+                time.sleep(1) #this is so that it doesn't instally end the program
+
+
+Good Luck!
