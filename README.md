@@ -13,9 +13,10 @@ This repository is divided into three levels:
 - **Hard** 🔴 - Complex challenges to test your skills.
 
 ---
-#🚧 This project is NOT finnished🚧
+# 🚧 This project is NOT finnished🚧
 Currently working on making the easy level lessons
 
+---
 ## 🟢 Easy Level
 ### 🔹 Concepts Covered:
 - Your first program
