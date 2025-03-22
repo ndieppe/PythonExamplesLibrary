@@ -91,8 +91,9 @@ Contributions are welcome! If you come up with a more efficient program or more 
 
 ---
 
-## 📜 License
+## 📜 Extra Info
 This project is licensed under Creative Commons - Feel free to do what you like with this repo!
+This project uses "Better Comments" (a VSCode extension) to utilise different comments in these files download the extension [here](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ---
 
