@@ -1,0 +1,12 @@
+Before looking at the given code we always give you a txt file to look at for the instructions and sometimes a little bit of help or a hint.
+We recommend not looking at our example till you have full tried yourself, and then try to add something to our example, Good luck!
+
+instructions:
+make a calculator, that takes inputs to choose the first and second number, and takes an operation input, before outputting the solution
+Solution is found in Calculator.py
+
+
+
+Bonus Challenge:
+Add a loop so the user can do more than one calculation without having to restart the program 
+Solution is found in BonusChallenge.py
