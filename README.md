@@ -13,13 +13,15 @@ This repository is divided into three levels:
 - **Hard** 🔴 - Complex challenges to test your skills.
 
 ---
+# 🚧 This project is NOT finnished🚧
+Currently working on making the easy level lessons
 
 ## 🟢 Easy Level
 ### 🔹 Concepts Covered:
--f-strings
-This repo isn't complete These have not been added yet:
-- Variables and Data Types
-- Basic Input/Output
+- Your first program
+- Variables
+- F-strings
+- Basic input and output
 - Conditional Statements (if-else)
 - Loops (for, while)
 - Functions and Scope
