@@ -19,3 +19,4 @@ else: #This means if user_input did not equal password
     print("Password was incorrect")
 
 #Please try to make your owbn programs utilising If-else before joining us for lesson 6: loops
+#* Next lesson: 06_loops.py

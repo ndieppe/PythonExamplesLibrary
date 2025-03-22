@@ -58,3 +58,6 @@ groceries = [fruits, vegetables, meats]
 print(groceries) #-> [['apple', 'banana', 'pear', 'coconut'], ['carrot', 'brocoli', 'peas'], ['chicken', 'beef', 'Dog']]
 print(groceries[0]) #-> ['apple', 'banana', 'pear', 'coconut']
 print(groceries[2][2]) #-> Dog
+
+#2d lists will not be used much the rest of this easy section, but are very useful to note anyway
+#* Next lesson: 08_maths.py

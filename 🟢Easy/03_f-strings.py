@@ -17,4 +17,5 @@ LastName = "Dieppe"
 Age = 17
 print(f"Your new username is {FirstName}_{LastName}{Age}") #-> Your new username is Nathan_Dieppe17
 
-#Now try the above with your own way of making a Username before joining us on lesson 4: Inputs
+#Now try the above with your own way of making a Username.
+#* Next lesson: 04_Inputs.py

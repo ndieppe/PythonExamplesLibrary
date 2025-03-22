@@ -47,3 +47,6 @@ print(number) #-> 1
 print(2**4) #->16
 print(3**2) #->9
 print(9**0.5) #->3.0 (turned into float)
+
+#this lesson will help you with making the Calculator project after you have completed the lessons. Good luck!
+#* Next lesson: 09_concatenation.py

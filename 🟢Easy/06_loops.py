@@ -44,3 +44,6 @@ if user_input != password:
     print("Failed to enter")
 else:
     print("Welcome") 
+
+
+#* Next lesson: 07_collections.py

@@ -18,4 +18,4 @@ print(f"Your username has been generated: {FirstName}_{LastName}{Age}")
 
 # In this Library, after every lesson I suggest you try to remake the program but with your own idea to make sure you understand,
 # then refer back to the original program to compare if you need help.
-# See you in the next lesson 05_if-else
+#* Next lesson: 05_if-else.py

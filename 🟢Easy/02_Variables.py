@@ -22,3 +22,6 @@ print(Age)
 length = 3.05 #This is an example of a float because it isn't a whole number.
 # We use Integers as well as floats to save memory on a computer (Integers use less memory than integers)
 triangle = True #This is a boolean variable (it can either be True or False)
+
+# Variables can be used in many ways, such as in loops, functions, and more.
+#* Next lesson: 03_f-strings.py
