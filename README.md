@@ -16,7 +16,6 @@ This repository is divided into three levels:
 # 🚧 This project is NOT finnished🚧
 Currently working on making the easy level lessons
 
----
 ## 🟢 Easy Level
 ### 🔹 Concepts Covered:
 - Your first program
