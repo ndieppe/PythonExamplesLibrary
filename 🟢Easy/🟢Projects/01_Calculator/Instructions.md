@@ -1,5 +1,5 @@
 **Before You Begin:**  
-We always provide a text file with instructions and sometimes a hint or extra help. Try to complete the task on your own before looking at our example. Once you've given it your best shot, check our solution and see if you can enhance it further. Good luck!
+We always provide a Mark Down file (This) with instructions and sometimes a hint or extra help. Try to complete the task on your own before looking at our example. Once you've given it your best shot, check our solution and see if you can enhance it further. Good luck!
 
 ---
 
