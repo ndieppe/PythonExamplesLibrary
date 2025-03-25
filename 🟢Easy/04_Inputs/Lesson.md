@@ -42,4 +42,4 @@ After every lesson, try modifying the program with your own ideas to reinforce l
 
 ---
 
-**Next Lesson: `05_if-else.py`**
+**Next Lesson: `05_if-else`**
