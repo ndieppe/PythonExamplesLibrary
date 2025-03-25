@@ -1,2 +1,2 @@
-#String Manipulation
+#Functions
 #Write your code below this line 👇
