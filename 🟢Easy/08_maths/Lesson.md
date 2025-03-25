@@ -103,5 +103,3 @@ print(9 ** 0.5)  # -> 3.0 (turned into float)
 ## Conclusion
 
 This lesson will help you with making the **Calculator Project** after you have completed the lessons. Good luck!
-
-### Next Lesson: `09_concatenation.py`
