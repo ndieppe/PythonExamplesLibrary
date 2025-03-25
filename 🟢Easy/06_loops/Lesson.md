@@ -77,6 +77,6 @@ else:
 
 ## Next Lesson: Collections in Python
 
-In the next lesson, we will learn about **collections** in Python, such as lists, tuples, and dictionaries.
+In the next lesson, we will learn about **`07_collections`** in Python, such as lists, tuples, and dictionaries.
 
 Happy coding! 🎉
